@@ -1,5 +1,5 @@
 {
-[
+    "items":[
         {"productID": 0, "itemName": "Select", "unitPrice": 0},
         {"productID": 3, "itemName": "Tesco Chili Mayo 250ml", "unitPrice": 6.25},
         {"productID": 4, "itemName": "Mainland Chesdale Cheddar Cheese Spread 12 pcs 250g", "unitPrice": 10.65},
