@@ -1,0 +1,19 @@
+{
+    "items": [
+        {"productID": 0, "itemName": "Select", "unitPrice": 0},
+        {"productID": 3, "itemName": "Tesco Chili Mayo 250ml", "unitPrice": 6.25},
+        {"productID": 4, "itemName": "Mainland Chesdale Cheddar Cheese Spread 12 pcs 250g", "unitPrice": 10.65},
+        {"productID": 5, "itemName": "Quaker Instant Oatmeal 1.35kg", "unitPrice": 12.95},
+        {"productID": 6, "itemName": "SCS Original Cream Cheese Spread 200g", "unitPrice": 9.55},
+        {"productID": 7, "itemName": "Hup Seng Cream Crackers 428g", "unitPrice": 12.95},
+        {"productID": 8, "itemName": "Julie's Peanut Butter Sandwich 360g", "unitPrice": 9.55},
+        {"productID": 9, "itemName": "Emborg Mozzarella Cheese 200g", "unitPrice": 18.15},
+        {"productID": 10, "itemName": "San Remo Spaghetti No.5 Pasta 500g", "unitPrice": 4.35},
+        {"productID": 11, "itemName": "Prego Carbonara Mushroom Pasta Sauce 295g", "unitPrice": 4.45},
+        {"productID": 12, "itemName": "Nongshim Shin Ramyun Noodle Soup 5x120g (600g)", "unitPrice": 14.35},
+        {"productID": 13, "itemName": "Tao Kae Noi Original Flavour Crispy Seaweed 40g", "unitPrice": 6.75},
+        {"productID": 14, "itemName": "Pringles Sour Cream & Onion Potato Crisps 110g", "unitPrice": 4.55},
+        {"productID": 15, "itemName": "Dutch Lady Pure Farm Full Cream Milk 1 Litre", "unitPrice": 5.45},
+        {"productID": 16, "itemName": "F&N Sweetend & Condensed Filled Milk 500g", "unitPrice": 3.65}
+   ]
+ }
